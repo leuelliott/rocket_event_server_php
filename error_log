@@ -1,0 +1,66 @@
+[07-Jan-2021 08:36:10 UTC] PHP Notice:  Undefined index: action in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 19
+[07-Jan-2021 08:36:10 UTC] PHP Notice:  Undefined index: id in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 20
+[07-Jan-2021 08:36:10 UTC] PHP Warning:  end() expects parameter 1 to be array, string given in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 115
+[07-Jan-2021 08:38:31 UTC] PHP Notice:  Array to string conversion in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 7
+[07-Jan-2021 08:40:18 UTC] PHP Notice:  Array to string conversion in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 7
+[07-Jan-2021 08:42:12 UTC] PHP Notice:  Array to string conversion in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 7
+[07-Jan-2021 08:42:18 UTC] PHP Notice:  Array to string conversion in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 7
+[07-Jan-2021 08:42:21 UTC] PHP Notice:  Array to string conversion in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 7
+[07-Jan-2021 08:43:56 UTC] PHP Notice:  Array to string conversion in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 7
+[07-Jan-2021 08:47:14 UTC] PHP Notice:  Undefined index: action in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 22
+[07-Jan-2021 08:47:14 UTC] PHP Notice:  Undefined index: id in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 23
+[07-Jan-2021 08:47:14 UTC] PHP Warning:  end() expects parameter 1 to be array, string given in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 118
+[07-Jan-2021 08:48:37 UTC] PHP Notice:  Undefined index: action in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 22
+[07-Jan-2021 08:48:37 UTC] PHP Notice:  Undefined index: id in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 23
+[07-Jan-2021 08:48:37 UTC] PHP Warning:  end() expects parameter 1 to be array, string given in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 118
+[07-Jan-2021 08:48:43 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (445) at position 0 (4): Unexpected character in /home2/deelesis/public_html/projects/elliot-events/eventData.php:36
+Stack trace:
+#0 /home2/deelesis/public_html/projects/elliot-events/eventData.php(36): DateTime->__construct('445')
+#1 {main}
+  thrown in /home2/deelesis/public_html/projects/elliot-events/eventData.php on line 36
+[07-Jan-2021 08:49:31 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (445) at position 0 (4): Unexpected character in /home2/deelesis/public_html/projects/elliot-events/eventData.php:36
+Stack trace:
+#0 /home2/deelesis/public_html/projects/elliot-events/eventData.php(36): DateTime->__construct('445')
+#1 {main}
+  thrown in /home2/deelesis/public_html/projects/elliot-events/eventData.php on line 36
+[07-Jan-2021 08:50:07 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (445) at position 0 (4): Unexpected character in /home2/deelesis/public_html/projects/elliot-events/eventData.php:36
+Stack trace:
+#0 /home2/deelesis/public_html/projects/elliot-events/eventData.php(36): DateTime->__construct('445')
+#1 {main}
+  thrown in /home2/deelesis/public_html/projects/elliot-events/eventData.php on line 36
+[07-Jan-2021 08:50:17 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (445) at position 0 (4): Unexpected character in /home2/deelesis/public_html/projects/elliot-events/eventData.php:36
+Stack trace:
+#0 /home2/deelesis/public_html/projects/elliot-events/eventData.php(36): DateTime->__construct('445')
+#1 {main}
+  thrown in /home2/deelesis/public_html/projects/elliot-events/eventData.php on line 36
+[07-Jan-2021 08:50:23 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (445) at position 0 (4): Unexpected character in /home2/deelesis/public_html/projects/elliot-events/eventData.php:36
+Stack trace:
+#0 /home2/deelesis/public_html/projects/elliot-events/eventData.php(36): DateTime->__construct('445')
+#1 {main}
+  thrown in /home2/deelesis/public_html/projects/elliot-events/eventData.php on line 36
+[07-Jan-2021 10:04:21 UTC] PHP Notice:  Undefined index: action in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 22
+[07-Jan-2021 10:04:21 UTC] PHP Notice:  Undefined index: id in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 23
+[07-Jan-2021 10:04:21 UTC] PHP Warning:  end() expects parameter 1 to be array, string given in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 118
+[08-Jan-2021 13:06:58 UTC] PHP Notice:  Undefined index: action in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 22
+[08-Jan-2021 13:06:58 UTC] PHP Notice:  Undefined index: id in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 23
+[08-Jan-2021 13:06:58 UTC] PHP Warning:  end() expects parameter 1 to be array, string given in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 118
+[08-Jan-2021 13:26:12 UTC] PHP Notice:  Undefined index: action in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 22
+[08-Jan-2021 13:26:12 UTC] PHP Notice:  Undefined index: id in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 23
+[08-Jan-2021 13:28:20 UTC] PHP Notice:  Undefined index: action in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 22
+[08-Jan-2021 13:28:20 UTC] PHP Notice:  Undefined index: id in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 23
+[08-Jan-2021 13:28:20 UTC] PHP Warning:  end() expects parameter 1 to be array, string given in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 118
+[08-Jan-2021 13:33:09 UTC] PHP Notice:  Undefined index: action in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 22
+[08-Jan-2021 13:33:09 UTC] PHP Notice:  Undefined index: id in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 23
+[08-Jan-2021 13:33:09 UTC] PHP Warning:  end() expects parameter 1 to be array, string given in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 118
+[08-Jan-2021 13:33:25 UTC] PHP Notice:  Undefined index: action in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 22
+[08-Jan-2021 13:33:25 UTC] PHP Notice:  Undefined index: id in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 23
+[08-Jan-2021 13:33:25 UTC] PHP Warning:  end() expects parameter 1 to be array, string given in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 118
+[08-Jan-2021 13:34:24 UTC] PHP Notice:  Undefined index: action in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 22
+[08-Jan-2021 13:34:24 UTC] PHP Notice:  Undefined index: id in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 23
+[08-Jan-2021 13:34:24 UTC] PHP Warning:  end() expects parameter 1 to be array, string given in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 118
+[08-Jan-2021 13:36:16 UTC] PHP Notice:  Undefined index: action in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 22
+[08-Jan-2021 13:36:16 UTC] PHP Notice:  Undefined index: id in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 23
+[08-Jan-2021 13:36:16 UTC] PHP Warning:  end() expects parameter 1 to be array, string given in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 118
+[08-Jan-2021 14:07:53 UTC] PHP Notice:  Undefined index: action in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 22
+[08-Jan-2021 14:07:53 UTC] PHP Notice:  Undefined index: id in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 23
+[08-Jan-2021 14:07:53 UTC] PHP Warning:  end() expects parameter 1 to be array, string given in /home2/deelesis/public_html/projects/elliot-events/createEvent.php on line 118
